@@ -1,0 +1,15 @@
+#include "windres.h"
+
+401 CURSOR  FIXED IMPURE "res\\bulb.cur"
+1 24 MOVEABLE PURE "res\\manifest.txt"
+CARD_FLICK WAVE MOVEABLE PURE "res\\CardFlick.wav"
+DECK_SHUFFLE WAVE MOVEABLE PURE "res\\Shuffle.wav"
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    101      "no image selected, press the Browse button to select an image file"
+    102       "Image File Problem"
+    103     "Not a valid image. Must be a Windows BMP file (.bmp extension)."
+    104    "Select an Image"
+END
+

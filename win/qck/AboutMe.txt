@@ -1,0 +1,12 @@
+Requires Free Pascal 2.2.0 installed to "C:\FPC\2.2.0"
+
+This suite of games is designed to run optimally on a 32-bit Windows system with the following minimum configuration:
+	* Windows 95 and later
+	* 800x600 256 Colors
+	
+Versioning: v.r.u/b
+	v = major version (1, 2, ... usually involves a new development branch)
+	r = release # (0, 1, ... feature additions, user will notice)
+	u = 2-digit year
+	b = build # (1, 2, 3, ... of the corresponding update	
+

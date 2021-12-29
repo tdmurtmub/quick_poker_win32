@@ -1,0 +1,3 @@
+#define CM_REDEALHAND 204
+#define CM_UNDOLASTMOVE 230
+#define CM_FILENEW 247

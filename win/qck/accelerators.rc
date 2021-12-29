@@ -1,0 +1,5 @@
+#include <stdwin.rch>
+
+// accelerators common to all Quick applications
+"N", CM_FILENEW, VIRTKEY, CONTROL, NOINVERT
+"R", CM_REDEALHAND, VIRTKEY, CONTROL, NOINVERT

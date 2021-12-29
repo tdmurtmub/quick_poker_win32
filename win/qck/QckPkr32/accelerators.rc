@@ -1,0 +1,10 @@
+101 ACCELERATORS DISCARDABLE 
+
+	BEGIN
+
+	#include "..\accelerators.rc"
+    
+	//"L", 306, VIRTKEY, NOINVERT
+    //"H", 307, VIRTKEY, NOINVERT
+
+	END	
