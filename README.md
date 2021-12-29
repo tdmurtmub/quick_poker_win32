@@ -1,4 +1,4 @@
 # quick_poker_win32
-Play draw or stud poker on your Windows desktop, against five digital opponents.
+A poker game for Windows desktop that let's you play Draw or Stud against five digital opponents.
 
 https://www.wesleysteiner.com/quickgames/poker.html
